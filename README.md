@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jainaba-bari
 - 👀 I’m interested in data analytics and engineering
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me jainababari@gmail.com
 
 <!---
 jainaba-bari/jainaba-bari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
