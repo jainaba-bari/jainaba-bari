@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @jainaba-bari
+- 📖 I have Bachelor's Degree in Physics
 - 👀 I’m interested in data analytics and engineering
 - 🌱 I’m currently learning Java Script
 - 📫 How to reach me jainababari@gmail.com
